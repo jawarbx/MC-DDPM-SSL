@@ -1,5 +1,6 @@
 # MC-DDPM-SSL
 An attempt to train MCDDPM via SSL
+All rights reserved in respective descriptions, I do not own the original files
 
 # Description of SSDU: Self-Supervision via Data Undersampling
 SSDU enables physics-guided deep learning MRI reconstruction without fully-sampled data ([paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28378)).
